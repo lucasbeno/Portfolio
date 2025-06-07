@@ -28,7 +28,7 @@ Este é meu site de portfólio pessoal, criado com HTML, CSS e JavaScript. Ele a
 
 Um jogo adaptado de “Cabra Cega” para pessoas com deficiência auditiva, usando ESP32, motor vibratório e conexão Wi-Fi. O jogador recebe estímulos táteis (vibração) para se orientar no ambiente.
 
-📷 ![Protótipo com ESP32](images/esp32.jpg)  
+📷 ![Protótipo com ESP32](images/ESP-32-projeto.jpg)  
 🔗 [Repositório no GitHub](https://github.com/louise-pessoa/Busca-Silenciosa)
 
 ---
